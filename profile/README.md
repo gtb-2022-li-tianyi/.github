@@ -1,7 +1,12 @@
 ## Hi All 👋
 
 
-🙋‍♀️ Hello world! Welcome to Tianyi's repo!
+🙋‍♀️ 
+```python
+Hello world! 
+```
+
+Welcome to **Tianyi**'s repo!
 
 The profile picture shows my favorite animal: **red panda**.
 
@@ -18,7 +23,7 @@ Here're a couple of pictures from back in the days:
 
 ---
 
-I look forward to learning programming as well as all of you -- my future colleagues!
+I look forward to learning about programming as well as all of you -- my future colleagues!
 
 Let's me share a quote from **Phil Jackson** former headcoach of the LA Laker's
 
